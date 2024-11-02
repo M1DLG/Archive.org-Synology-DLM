@@ -1,0 +1,10 @@
+{
+	"name": "ArchiveOrg",
+	"displayname": "Archive.org",
+	"description": "Search for media files on Archive.org",
+	"version": "1.1",
+	"site": "https://archive.org",
+	"module": "search.php",
+	"type": "search",
+	"class": "SynoDLMSearchArchiveOrg"
+}
