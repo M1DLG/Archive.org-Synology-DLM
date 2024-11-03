@@ -7,6 +7,9 @@ The indentation are important in the INFO file, any deviation will cause the fil
 
 The DLM guide is taken from ```https://global.download.synology.com/download/Document/Software/DeveloperGuide/Package/DownloadStation/All/enu/DLM_Guide.pdf``` on 02/11/24 but it's included here just incase it is removed from source. It's unlikely it will be updated, but its worth looking for an updated version if needed.
 
+<code style="color : red">REMEMBER TO SEED - Archive.org IS A NON-PROFIT, HELP THEM TO PROVIDE FOR EVERYONE</code>
+
+
 -------------------------------------------------
 ### Change Log : ###
 
